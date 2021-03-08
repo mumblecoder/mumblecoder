@@ -1,6 +1,4 @@
-<div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmumblecoder&count_bg=%233B5E9E&title_bg=%23605A5A&icon=skyliner.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmumblecoder&count_bg=%233B5E9E&title_bg=%23605A5A&icon=skyliner.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi there 👋
 
